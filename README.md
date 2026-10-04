@@ -5,6 +5,8 @@ A native macOS app that lists every audio plugin on your Mac, compares the insta
 - Formats: VST2, VST3, AU, AAX, CLAP
 - Requires macOS 14 Sonoma or later, Apple Silicon or Intel
 
+![Yellow Plugin Manager main window: plugins grouped by vendor, with views, formats and groups in the sidebar](docs/screenshot.png)
+
 ## What it does
 
 - **One table for everything.** Plugins grouped by vendor, with a column per format showing whether it is used, parked in Unused, or not installed. Version, install date and architecture alongside.
