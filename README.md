@@ -1,0 +1,1 @@
+# yellow-plugin-manager
